@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <OS_2>
+    <version value="2"/>
+    <xAvgCharWidth value="1073"/>
+    <usWeightClass value="400"/>
+    <usWidthClass value="5"/>
+    <fsType value="00000000 00000000"/>
+    <ySubscriptXSize value="1433"/>
+    <ySubscriptYSize value="1331"/>
+    <ySubscriptXOffset value="0"/>
+    <ySubscriptYOffset value="286"/>
+    <ySuperscriptXSize value="1433"/>
+    <ySuperscriptYSize value="1331"/>
+    <ySuperscriptXOffset value="0"/>
+    <ySuperscriptYOffset value="976"/>
+    <yStrikeoutSize value="100"/>
+    <yStrikeoutPosition value="700"/>
+    <sFamilyClass value="0"/>
+    <panose>
+      <bFamilyType value="2"/>
+      <bSerifStyle value="0"/>
+      <bWeight value="0"/>
+      <bProportion value="0"/>
+      <bContrast value="0"/>
+      <bStrokeVariation value="0"/>
+      <bArmStyle value="0"/>
+      <bLetterForm value="0"/>
+      <bMidline value="0"/>
+      <bXHeight value="0"/>
+    </panose>
+    <ulUnicodeRange1 value="10100000 00000000 00000010 11111111"/>
+    <ulUnicodeRange2 value="01010010 00000000 10100001 11111111"/>
+    <ulUnicodeRange3 value="00000010 00000000 00000000 00001001"/>
+    <ulUnicodeRange4 value="00000000 00000000 00000000 00000000"/>
+    <achVendID value="SIL\x00"/>
+    <fsSelection value="00000000 01000000"/>
+    <fsFirstCharIndex value="13"/>
+    <fsLastCharIndex value="54547"/>
+    <sTypoAscender value="2500"/>
+    <sTypoDescender value="-800"/>
+    <sTypoLineGap value="0"/>
+    <usWinAscent value="2500"/>
+    <usWinDescent value="800"/>
+    <ulCodePageRange1 value="00100000 00000000 00000001 10010111"/>
+    <ulCodePageRange2 value="00000000 00000000 00000000 00000000"/>
+    <sxHeight value="1040"/>
+    <sCapHeight value="1485"/>
+    <usDefaultChar value="0"/>
+    <usBreakChar value="32"/>
+    <usMaxContex value="0"/>
+  </OS_2>
+
+</ttFont>
