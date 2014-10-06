@@ -1,0 +1,106 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Andika
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2004-2011, SIL International (http://www.sil.org/). Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL), with Reserved Font Names "Andika" and "SIL".
+    License: Copyright (c) 2004-2011, SIL International (http://scripts.sil.org), with Reserved Font Names 'Andika' and 'SIL'. 
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Vendor: SIL International
+    Vendor url: http://scripts.sil.org
+    Designer: Victor Gaultney, Annie Olsen, Julie Remington, Don Collingsworth, Eric Hays
+    Glyph count: 4788
+    Character count: 2177
+    Orthographies:
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 48
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 11
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 38
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 74
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 3
+  Font:
+    Common name: Andika
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2004-2011, SIL International (http://www.sil.org/). Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL), with Reserved Font Names "Andika" and "SIL".
+    License: Copyright (c) 2004-2011, SIL International (http://scripts.sil.org), with Reserved Font Names 'Andika' and 'SIL'. 
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Vendor: SIL International
+    Vendor url: http://scripts.sil.org
+    Designer: Victor Gaultney, Annie Olsen, Julie Remington, Don Collingsworth, Eric Hays
+    Glyph count: 4788
+    Character count: 2177
+    Orthographies:
+        Orthography:
+          Common name: Subset cyrillic-ext
+          Support level: fragmentary
+          Percent coverage: 48
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: full
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 11
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: full
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 38
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 74
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 3
